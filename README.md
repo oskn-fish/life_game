@@ -7,7 +7,7 @@ a simple program that simulates Conway's Game of Life (https://en.wikipedia.org/
 The only requirement is numpy. You can install it with `pip install numpy`.
 
 # Variables
-`STAGE_SIZE` should be (height, width).
+`STAGE_SIZE` should be `(height, width)`.
 `INITIAL_LIFE_EXISTANCE` controls the probability of life spwan at initial stage.
 
 
